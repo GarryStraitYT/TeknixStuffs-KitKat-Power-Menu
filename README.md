@@ -1,3 +1,8 @@
+# TSKKPM: TeknixStuff's KitKat Power Menu
+** NAME SUBJECT TO CHANGE **
+I'm helping @teknixstuff bring his idea for a KitKat Power Menu to life, in a FOSS and non-hacky way. This is one of the many ways I'm helping him since I cannot donate.
+
+# -- ORIGINAL README --
 # NeoPowerMenu
 **Create Your own Power menu!**
 
